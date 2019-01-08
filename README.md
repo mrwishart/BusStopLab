@@ -1,4 +1,8 @@
-# BusStopLab
+# Java Bus Stop Lab
+
+Week 11, Day 2 Afternoon lab at Codeclan. Exploring the uses of multiple classes in Java using TDD. Paired up with David
+
+# Original Brief:
 
 ## Lab
 Create a TDD model of a bus with passengers.
